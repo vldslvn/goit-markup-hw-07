@@ -137,7 +137,7 @@ img {
 }
 
 .icon-all {
-  fill: var(--icon-color);
+  fill: var(--second-icon-color);
   transition: fill var(--time) var(--animation-time);
 }
 
